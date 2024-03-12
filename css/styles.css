@@ -4586,7 +4586,7 @@ img.u-pull-left {
     height           : calc(1.875 * var(--space));
     width            : calc(1.875 * var(--space));
     border-radius    : 50%;
-    background-color : #0C0C0C;
+    background-color : #143516;
     transition       : all .3s;
     position         : relative;
 }
